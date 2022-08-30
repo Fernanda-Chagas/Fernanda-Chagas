@@ -1,7 +1,7 @@
 ### Hello! Welcome to my Profile ⚡
 
 - 🔭 I’m working on Front-End Developer
-- 🌱 I’m currently learning React, C++, HTML
+- 🌱 I’m currently learning React, CSS, HTML
 - 😄 Pronouns: Ela/ She
 
 <div align="center">

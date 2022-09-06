@@ -17,7 +17,7 @@
   <img align="center" alt="Nanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nanda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="Nanda-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1011758755010068545/1011822634008334336/download20220802190017.png">
+ <img align="right" alt="Nanda-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1011758755010068545/1016760654453022800/download20220902091624.png">
 </div>
 
  ##
